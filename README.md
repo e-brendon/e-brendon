@@ -1,4 +1,4 @@
-### Oi eu sou o Brendon  👋
+### Hi i'm Brendon  👋
 
 - 🔭 Hoje eu trabalho com Tecnologia da informação (junior)
 - 🌱 Eu estudando ferramentas DevOps, e aluno de Ciências da Computação (UNEMAT)
