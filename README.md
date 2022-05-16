@@ -22,5 +22,4 @@
  
   ![Snake animation](https://github.com/Unckros/Unckros/blob/output/github-contribution-grid-snake.svg)
  
-  > :octocat: [Unckros.github.io](https://Unckros.github.io)
 </div>
