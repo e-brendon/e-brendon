@@ -1,7 +1,7 @@
 ### Hi i'm Brendon  👋
 
 - 🔭 Hoje eu trabalho com Tecnologia da informação (junior)
-- 🌱 Eu estudando ferramentas DevOps, e aluno de Ciências da Computação (UNEMAT)
+- 🌱 Aluno de Ciências da Computação (UNEMAT)
 - 💬 Ask me about ...
 - 📫 brendonmontteiro@gmail.com
 - 😄 Pronouns: Ele/dele
