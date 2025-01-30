@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez por dia
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: |
+          pip install -r https://raw.githubusercontent.com/Platane/snk/main/requirements.txt
+
+      - name: Gerar a animação da snake
+        run: |
+          curl -o snake.py https://raw.githubusercontent.com/Platane/snk/main/generate/snake.py
+          python snake.py --output github-contribution-grid-snake.svg
+
+      - name: Enviar animação para o GitHub
+        uses: endbug/add-and-commit@v9
+        with:
+          author_name: "GitHub Action"
+          author_email: "action@github.com"
+          message: "Atualizar animação da snake"
+          add: "github-contribution-grid-snake.svg"
