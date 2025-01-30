@@ -2,6 +2,7 @@
 
 - 🐧 DevOps
 - 🌱 Ciências da Computação (UNEMAT)
+- 🧑‍💼 Empreendedor
 - 💬 Ask me about ...
 - 📫 brendonmontteiro@gmail.com
 - 😄 Pronouns: Ele/dele
