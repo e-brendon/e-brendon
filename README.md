@@ -21,6 +21,4 @@
   <a href = "mailto:brendonmontteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brendon-henrique-monteiro-esteves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/e-brendon/e-brendon/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
