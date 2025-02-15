@@ -7,11 +7,19 @@
 - 📫 brendonmontteiro@gmail.com
 - 😄 Pronouns: Ele/dele
 
-# Olá! Eu sou Brendon Esteves 👋
+# 👋 Olá! Eu sou o Brendon Esteves (e-brendon)
 
-![e-brendon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-brendon&show_icons=true&theme=dark&count_private=true)
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-brendon&layout=compact&langs_count=10&theme=dark)  
+## 📊 Brendon Esteves' GitHub Stats
+
+![e-brendon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-brendon&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
+
+---
+
+## 🏆 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-brendon&layout=compact&langs_count=10&theme=radical&hide_border=true)
   ##
  
 <div> 
