@@ -12,9 +12,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-brendon&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" 
+       src="https://github-readme-stats-denvercoder1.vercel.app/api?username=e-brendon&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-brendon&layout=compact&langs_count=10&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" 
+       src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=e-brendon&layout=compact&langs_count=10&theme=github_dark&hide_border=true"/>
 
 </div>
 
