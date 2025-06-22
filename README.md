@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou o Brendon Esteves (e-brendon)
 
 ### 🚀 Sobre mim:
-- 🐧 DevOps
-- 🌱 Ciências da Computação - UNEMAT
-- 🧑‍💼 Empreendedor
-- 💬 Me pergunte sobre: Cloud, DevOps, Linux, Mikrotik, Infraestrutura
-- 📫 brendonmontteiro@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 🐧 DevOps;
+- 🌱 Ciências da Computação - UNEMAT;
+- 🧑‍💼 Empreendedor;
+- 💬 Me pergunte sobre: Cloud, DevOps, Linux, Mikrotik, Infraestrutura;
+- 📫 brendonmontteiro@gmail.com;
+- 😄 Pronomes: Ele/Dele.
 
 ---
 
